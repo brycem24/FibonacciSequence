@@ -1,0 +1,4 @@
+The fibonacci sequence written in C++. This is just a simple recursive program to get me familiar with the basics of C++. You can compile this program with g++ in the terminal.
+
+g++ main.cpp
+./a.out
